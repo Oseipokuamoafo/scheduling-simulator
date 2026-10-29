@@ -1,0 +1,5 @@
+schedsim
+*.o
+schedsim_ref_*
+.settings
+.codio
